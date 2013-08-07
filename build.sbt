@@ -4,6 +4,10 @@ version := "1.0"
 
 scalaVersion := "2.10.1"
 
+//crossScalaVersions := Seq("2.10.1","2.9.3")
+
+//scalaVersion <<= crossScalaVersions { (vs: Seq[String]) => vs.head }
+
 libraryDependencies ++= Seq(
   "com.github.scopt" %% "scopt" % "2.1.0",
   "edu.washington.cs.knowitall.openie" %% "openie-models" % "1.0",
@@ -14,8 +18,8 @@ libraryDependencies ++= Seq(
   "edu.washington.cs.knowitall.stanford-corenlp" % "stanford-parse-models" % "1.3.5",
   "edu.washington.cs.knowitall.stanford-corenlp" % "stanford-postag-models" % "1.3.5",
   "edu.washington.cs.knowitall.stanford-corenlp" % "stanford-ner-models" % "1.3.5",
-  "edu.washington.cs.knowitall.nlptools" % "nlptools-parse-stanford_2.9.3" % "2.4.2",
-  "edu.washington.cs.knowitall.nlptools" % "nlptools-postag-stanford_2.9.3" % "2.4.2",
+  "edu.washington.cs.knowitall.nlptools" %% "nlptools-parse-stanford" % "2.4.2",
+  "edu.washington.cs.knowitall.nlptools" %% "nlptools-postag-stanford" % "2.4.2",
   "jp.sf.amateras.solr.scala" %% "solr-scala-client" % "0.0.8"
 )
 

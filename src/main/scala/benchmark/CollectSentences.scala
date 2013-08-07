@@ -42,21 +42,33 @@ object CollectSentences {
       }
     }
     
-    var listWithExtractions = List[(String,List[OllieExtractionInstance],List[Int])]()
+    var listWithExtractions = List[(String,List[Extraction],List[Int])]()
     //filter if ollie finds any extractions
     sentenceListIdMap.foreach(p => {
       try{
         val graph = parser.dependencyGraph(p._1)
-        listWithExtractions = listWithExtractions :+ (p._1,ollie.extract(graph).toList,p._2)
+        var extractions = List[Extraction]()
+        for (e <- ollie.extract(graph)){
+          
+          extractions = extractions :+ new Extraction(e.extr.arg1.text,e.extr.rel.text,e.extr.arg2.text)
+        }
+        listWithExtractions = listWithExtractions :+ (p._1,extractions.toList,p._2)
       }
       catch{
         case e: Exception => {}
       }
     })
     
-    val pw = new java.io.PrintWriter(new java.io.File("sentences.out"))
+    val pw = new java.io.PrintWriter(new java.io.File("sentenceExtractions.out"))
     for( a <- listWithExtractions){
-      pw.write((a._1,a._2,a._3)+"\n")
+      pw.write(a._1.replaceAll("\\s+", " "))
+      for( e <- a._2){
+        pw.write("\t"+e)
+      }
+      for( fId <- a._3){
+        pw.write("\tfillerId:"+fId)
+      }
+      pw.write("\n")
     }
     pw.close()
     
@@ -68,6 +80,14 @@ object CollectSentences {
   def findSentence(fillerId: Int, docId: String, begOffset: Int, entityName:String):String = {
     
     SolrHelper.getSentenceFromDocWithParagraphFormat(docId, begOffset, entityName).getOrElse({""})
+  }
+  
+  private class Extraction(val arg1:String, val rel: String, val arg2: String){
+    
+    override def toString(): String = {
+      Iterator(arg1,rel,arg2).mkString("(",",",")")
+    }
+    
   }
 
 }
