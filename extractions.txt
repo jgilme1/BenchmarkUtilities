@@ -1,0 +1,647 @@
+Kuroda noted the new plan was supported by all of the bank's 67 members, except the United States and Britain.	APW_ENG_20080506.1046.LDC2009T13	816,815
+	Kuroda	noted	the new plan was supported by all of the bank's 67 members, except the United States and Britain	correct
+	the new plan	was supported except	the United States and Britain	correct
+	the new plan	was supported	by all of the bank's 67 members	correct
+	the new plan	was supported by	all	correct
+	Kuroda	noted	the new plan	correct
+A New York Times News Service obituary about Richard Nolte, a diplomat and geographer, misstated the number of his surviving grandchildren.	NYT_ENG_20071211.0037.LDC2009T13	1936
+	A New York Times News Service obituary	misstated	the number of his surviving grandchildren	correct
+	Richard Nolte	misstated the number of	his surviving grandchildren	correct
+	A New York Times News Service obituary about Richard Nolte	misstated	the number of his surviving grandchildren	correct
+Harry Shuler Dent,grew up in St. Matthews, S.C., and graduated cum laude from Presbyterian College in Clinton, S.C., in 1951.	NYT_ENG_20071002.0030.LDC2009T13	1400
+	Harry Shuler Dent	graduated cum laude from	Presbyterian College	correct
+	cum laude	be graduated in	1951	correct
+	Harry Shuler Dent	graduated cum laude in	1951	correct
+	Harry Shuler Dent	grew up in	St. Matthews	correct
+	St . Matthews	graduated cum laude from	Presbyterian College	correct
+	cum laude	be graduated from	Presbyterian College	correct
+	Harry Shuler Dent	graduated	cum laude	correct
+	Harry Shuler Dent	grew up	in St. Matthews	correct
+Four months after being admitted to the bar he entered Officer Candidate School.	NYT_ENG_20070420.0018.LDC2009T13	2076
+	he	entered	Officer Candidate School	correct
+At age 68, she received a bachelor's degree from St. John's University, and five years later she obtained a master's degree in urban studies at Queens College.	NYT_ENG_20070812.0174.LDC2009T13	1217
+	a bachelor 's degree	be received at	age 68	correct
+	she	received a bachelor 's degree at	age 68	correct
+	she	received	a bachelor 's degree	correct
+	a master 's degree	be five years later obtained in	urban studies	correct
+	she	received	a bachelor's degree	correct
+	a master 's degree	be five years later obtained at	Queens College	correct
+	she	received a bachelor 's degree from	St . John	correct
+	she	five years later obtained a master 's degree in	urban studies	correct
+	she	obtained a master 's degree in	urban studies	correct
+	she	five years later obtained a master 's degree at	Queens College	correct
+	she	obtained	a master's degree	correct
+	a bachelor 's degree	be received from	St. John 's University	correct
+	she	received a bachelor 's degree from	St. John 's University	correct
+	she	five years later obtained	a master 's degree	correct
+Government ministers also met with Sheikh Hasina Wajed, leader of the Awami League party, who has committed her party to going to the polls.	AFP_ENG_20081119.0697.LDC2009T13	1896
+	Sheikh Hasina Wajed	be leader of	the Awami League party	correct
+	Sheikh Hasina Wajed	be leader of the of	Awami League party	correct
+	Government ministers	also met	with Sheikh Hasina Wajed	correct
+	Sheikh Hasina Wajed	[is] leader of	the Awami League party	correct
+	the Awami League party	has committed	her party	correct
+	Government ministers	also met with	Sheikh Hasina Wajed	correct
+Nolte eventually became chairman of the American Geographical Society.	NYT_ENG_20071210.0041.LDC2009T13	1930
+	Nolte	eventually became chairman of	the American Geographical Society	correct
+	Nolte	eventually became	chairman of the American Geographical Society	correct
+	Nolte	became	chairman of the American Geographical Society	correct
+In addition to Andrea, Rothman is survived by another daughter, Theresa; sons Murray and Kenneth; and six grandchildren.	LTW_ENG_20071003.0154.LDC2009T13	1263,1262,1261
+	Rothman	is survived by	another daughter , Theresa ; sons Murray and Kenneth ; and six grandchildren	correct
+	Rothman	is survived in	addition	correct
+	Rothman	is survived by	another daughter	correct
+	Rothman	is survived	by another daughter, Theresa; sons Murray and Kenneth; and six grandchildren	correct
+Thomas J. Meskill, who in his one term as governor in the early 1970s steered Connecticut from the edge of bankruptcy, instituted a state lottery and oversaw the creation of a department of environmental protection, died Monday in Delray Beach, Fla.	NYT_ENG_20071030.0031.LDC2009T13	1135,1133,1121,1119,1116
+	Connecticut	be steered in	his one term	correct
+	Thomas J. Meskill	died	Delray Beach	correct
+	bankruptcy	oversaw the creation of	a department	correct
+	Thomas J. Meskill	died in	Delray Beach	correct
+	the edge	instituted	a state lottery	correct
+	Thomas J. Meskill	died	Monday	correct
+	Thomas J. Meskill	steered	Connecticut	correct
+	Connecticut	be steered from	the edge of bankruptcy	correct
+	Thomas J. Meskill	steered Connecticut from	the edge of bankruptcy	correct
+	Thomas J. Meskill	steered Connecticut in	his one term	correct
+	the early 1970s	steered	Connecticut	correct
+	a department	died Monday in	Delray Beach	correct
+Her second husband, clergyman Walter Offutt Jr., died in 1974 after nearly 25 years of marriage.	APW_ENG_20070112.0306.LDC2009T13	1559,1558
+	Her second husband	died after	nearly 25 years of marriage	correct
+	Her second husband	died in	1974	correct
+	Her second husband	died	1974	correct
+	Her second husband	died	in 1974	correct
+They are Jade Moore of Clearwater, executive director of the Pinellas Classroom Teachers Association; Talbot "Sandy" D'Alemberte, former president of Florida State University and a former American Bar Association president; and Les Miller, a former state Senate minority leader who manages minority business development and government relations for Tampa General Hospital.	NYT_ENG_20070208.0310.LDC2009T13	766
+	Les Miller	manages	minority business development and government relations	correct
+	minority business development and government relations	be manages by	Jade Moore of Clearwater , executive director of the Pinellas Classroom Teachers Association ; Talbot `` Sandy '' D'Alemberte , former president of Florida State University and a former American Bar Association president ; and Les Miller	correct
+	They	are Jade Moore of	Clearwater	correct
+	Talbot " Sandy " D'Alemberte	[is] former president of	Florida State University	correct
+	They	are	Jade Moore	correct
+	Jade Moore of Clearwater , executive director of the Pinellas Classroom Teachers Association ; Talbot `` Sandy '' D'Alemberte , former president of Florida State University and a former American Bar Association president ; and Les Miller	manages government relations for	Tampa General Hospital	correct
+	They	are	Jade Moore of Clearwater, executive director of the Pinellas Classroom Teachers Association; Talbot ``Sandy''D'Alemberte,former president of Florida State University and a former American Bar Association president; and Les Miller	correct
+	Les Miller	[is] a former minority leader [of]	state Senate	correct
+	a former state Senate minority leader	manages	minority business development	correct
+	Jade Moore of Clearwater , executive director of the Pinellas Classroom Teachers Association ; Talbot `` Sandy '' D'Alemberte , former president of Florida State University and a former American Bar Association president ; and Les Miller	manages minority business development for	Tampa General Hospital	correct
+	They	be executive director of	the Pinellas Classroom Teachers Association	correct
+	Clearwater	[is] executive director of	the Pinellas Classroom Teachers Association	correct
+Harry S. Dent Jr., who helped devise the "Southern strategy" that was crucial to Richard M. Nixon's winning the White House, died on Friday in Columbia, S.C.	NYT_ENG_20071002.0030.LDC2009T13	1391
+	Harry S. Dent Jr.	helped devise	the " Southern strategy	correct
+	Harry S. Dent Jr.	died	Columbia , S.C.	correct
+	Harry S. Dent Jr.	died in	Columbia , S.C.	correct
+	the " Southern strategy	was crucial to	Richard M. Nixon	correct
+	Harry S. Dent Jr.	devise	the ``Southernstrategy	correct
+	Harry S. Dent Jr.	died	on Friday	correct
+	the ``Southernstrategy	was	crucial to Richard M. Nixon's	correct
+	Harry S. Dent Jr.	helped	devise the ``Southernstrategy	correct
+	Richard M. Nixon's	winning	the White House	correct
+	's	died on	Friday	correct
+	Harry S. Dent Jr.	died on	Friday	correct
+The company said Gerry Cahill, chief financial officer of Carnival Corp., will immediately assume Dickinson's responsibilities as president and chief executive of Carnival Cruise Lines.	APW_ENG_20070709.1134.LDC2009T13	1852
+	Gerry Cahill	be president and chief executive of	Carnival Cruise Lines	correct
+	Gerry Cahill	[is] chief financial officer of	Carnival Corp.	correct
+	Gerry Cahill	will immediately assume Dickinson 's responsibilities as	president and chief executive of Carnival Cruise Lines	correct
+	Gerry Cahill	be chief financial officer of	Carnival Corp.	correct
+	The company	said	Gerry Cahill	correct
+	chief financial officer	will immediately assume	Dickinson	correct
+	Gerry Cahill	will immediately assume	Dickinson 's responsibilities	correct
+	Gerry Cahill	will assume	Dickinson's responsibilities	correct
+	Dickinson 's responsibilities	will be immediately assume as	president and chief executive of Carnival Cruise Lines	correct
+	Gerry Cahill	be chief financial officer in	Carnival Corp.	correct
+	The company	said	Gerry Cahill, chief financial officer of Carnival Corp., will immediately assume Dickinson's responsibilities as president and chief executive of Carnival Cruise Lines	correct
+This revelation was lauded by the American Psychiatric Association, which represents more than 36,000 physicians in mental health.	NYT_ENG_20070511.0116.LDC2009T13	686
+	This revelation	was lauded	by the American Psychiatric Association	correct
+	the American Psychiatric Association	represents	more than 36,000 physicians in mental health	correct
+	This revelation	was lauded by	the American Psychiatric Association	correct
+	than 36,000 physicians	be represents by	the American Psychiatric Association	correct
+	the American Psychiatric Association	represents more than	36,000 physicians	correct
+She married Sherman Morgan and had two children.	LTW_ENG_20070814.0081.LDC2009T13	1223
+	She	had	two children	correct
+	She	married	Sherman Morgan	correct
+Peterson's marriages to Lillie Fraser, Sandra King and Charlotte Huber ended in divorce.	LTW_ENG_20071225.0085.LDC2009T13	1640,1639
+	Peterson 's marriages	ended in	divorce	correct
+	Charlotte Huber	ended in	divorce	correct
+	Peterson's marriages to Lillie Fraser, Sandra King and Charlotte Huber	ended	in divorce	correct
+Herrera's wife Ramona, died in 1991.	LTW_ENG_20071202.0052.LDC2009T13	1971
+	Ramona	[is] wife [of]	Herrera	correct
+	Herrera's wife Ramona	died	in 1991	correct
+	Herrera 's wife	died	1991	correct
+	Herrera	died in	1991	correct
+	Herrera 's wife	died in	1991	correct
+The bank, founded in 1966, traditionally has a Japanese president, just as the World Bank chief is always an American.	APW_ENG_20080506.0607.LDC2009T13	833
+	The bank	traditionally has	a Japanese president	correct
+	The bank	be founded in	1966	correct
+	The bank	founded	in 1966	correct
+	The bank, founded in 1966	traditionally has	a Japanese president	correct
+	the World Bank chief	is	always an American	correct
+	the World Bank chief	just is always	an American	correct
+	the World Bank chief	is always	an American	correct
+	The bank founded in 1966	traditionally has	a Japanese president	correct
+Argentina on Thursday announced it had regained control of the national flagship carrier Aerolineas Argentinas after signing a deal with the principal stakeholder, the Spanish group Marsans.	AFP_ENG_20080717.0195.LDC2009T13	630
+	it	had regained control of	the national flagship carrier Aerolineas Argentinas	correct
+	it	had regained	control of the national flagship carrier Aerolineas Argentinas	correct
+	Thursday	announced	it	correct
+	a deal	be signing with	the principal stakeholder	correct
+	Argentina on Thursday	announced	it had regained control of the national flagship carrier Aerolineas Argentinas after signing a deal with the principal stakeholder	correct
+	Aerolineas Argentinas	[is] national carrier [of]	flagship	correct
+Richmond M. Flowers, who as the Alabama attorney general in the early 1960s drew national attention when he challenged the segregationist policies of Gov. George C. Wallace and prosecuted Ku Klux Klansmen in the killings of civil rights workers, died Thursday at his home in Dothan, Ala.	NYT_ENG_20070811.0017.LDC2009T13	1385,1383,1382,1354
+	Richmond M. Flowers	drew	national attention when he challenged the segregationist policies of Gov. George C. Wallace	correct
+	the segregationist policies	prosecuted	Ku Klux Klansmen	correct
+	he	challenged	the segregationist policies of Gov. George C. Wallace	correct
+	national attention when he challenged the segregationist policies of Gov. George C. Wallace	be drew as	the Alabama attorney general	correct
+	Richmond M. Flowers	drew national attention when he challenged the segregationist policies of Gov. George C. Wallace as	the Alabama attorney general	correct
+	he	challenged the segregationist policies of	Gov. George C. Wallace	correct
+	Richmond M. Flowers	died	Thursday	correct
+	Richmond M. Flowers	died at	his home	correct
+	the early 1960s	drew	national attention	correct
+	Richmond M. Flowers	died in	Thursday	correct
+After retiring from the Navy, Anderson served as a consultant to Presidents John F. Kennedy and Lyndon B. Johnson, helping to create the Peace Corps.	APW_ENG_20070305.0543.LDC2009T13	2094
+	John F. Kennedy and Lyndon B. Johnson	be served as	a consultant	correct
+	Anderson	served	John F. Kennedy and Lyndon B. Johnson	correct
+	Anderson	served	as a consultant to Presidents	correct
+	Anderson	served John F. Kennedy as	a consultant	correct
+	Anderson	served Lyndon B. Johnson as	a consultant	correct
+	Anderson	served as	a consultant	correct
+"From the early '70s this group has defined country rock, and more than three decades later they are still creating music that resonates with our audience," said CMA chief operating officer Tammy Genovese.	APW_ENG_20070925.1631.LDC2009T13	698
+	our audience	said	CMA chief operating officer Tammy Genovese	correct
+	CMA chief	operating	officer	correct
+	this group	has defined are	country rock	correct
+	Tammy Genovese	said CMA chief operating	officer	correct
+	music	resonates with	our audience	correct
+	this group	has defined	country rock	correct
+	this group	has more than three decades later are still creating	music that resonates with our audience	correct
+	Tammy Genovese	said	CMA chief	correct
+	they	has more than three decades later are still creating	music that resonates with our audience	correct
+	they	has defined country rock are from	the early '70s	correct
+	they	has defined are	country rock	correct
+	music	resonates	with our audience	correct
+	this group	has defined country rock are from	the early '70s	correct
+	they	are still creating	music	correct
+	they	are creating	music that resonates with our audience	correct
+He was deputy chief of staff in the White House from 1981 to 1985.	NYT_ENG_20070818.0118.LDC2009T13	1675
+	He	was deputy chief of staff from	1981 to 1985	correct
+	He	was deputy chief of	staff	correct
+	He	was	deputy chief of staff	correct
+	He	was	deputy chief of staff in the White House from 1981 to 1985	correct
+He attended Oxford University as a Rhodes scholar, majoring in Arabic, Arab history and Muslim law.	LTW_ENG_20071129.0012.LDC2009T13	1921
+	He	attended	Oxford University	correct
+	He	attended	Oxford University as a Rhodes scholar	correct
+	He	attended Oxford University as a Rhodes scholar majoring	in Arabic, Arab history and Muslim law	correct
+They say the terror cell sought the help of Jamaat al Muslimeen, or JAM, a group based in Trinidad that is known to be violent and to have been involved in killings, kidnappings and weapons trafficking over the past two decades.	APW_ENG_20070629.1188.LDC2009T13	798
+	the terror cell	sought	the help of Jamaat al Muslimeen, or JAM	correct
+	They	say	the terror cell	correct
+	the terror cell	sought	the help of Jamaat al Muslimeen , or JAM	correct
+	They	say	the terror cell sought the help of Jamaat al Muslimeen, or JAM, a group based in Trinidad	correct
+	the terror cell	sought the help of	Jamaat al Muslimeen	correct
+Her mother, Coretta Scott Kind, died last year.	APW_ENG_20070516.0542.LDC2009T13	2035
+	Her mother	died in	last year	correct
+	Her mother	died	last year	correct
+It was the home court for Beijing Aoshen Olympian of the American Basketball Association.	APW_ENG_20070703.0181.LDC2009T13	1799
+	It	was the home court for	Beijing Aoshen Olympian of the American Basketball Association	correct
+	It	was	the home court	correct
+	It	was the home court for	Beijing Aoshen Olympian	correct
+	It	was	the home court for Beijing Aoshen Olympian of the American Basketball Association	correct
+McNair, born on Dec. 14, 1923, in the rural Low Country of South Carolina, was buried on Tuesday near his childhood home in Berkeley County.	NYT_ENG_20071124.0016.LDC2009T13	1750
+	the rural Low Country	was buried on	Tuesday	correct
+	McNair	be born on	Dec. 14 , 1923	correct
+	McNair	was buried	on Tuesday near his childhood home	correct
+	McNair	was buried in	Berkeley County	correct
+	McNair	born	on Dec. 14, 1923, in the rural Low Country of South Carolina	correct
+	McNair	was buried on	Tuesday	correct
+Initially, it was acquired by the Spanish airline Iberia.	AFP_ENG_20080721.0042.LDC2009T13	628
+	it	Initially was acquired by	the Spanish airline Iberia	correct
+	it	was acquired by	the Spanish airline Iberia	correct
+	it	was acquired	by the Spanish airline Iberia	correct
+Davis, 57, died at her home in Gloucester, Virginia.	APW_ENG_20071006.0674.LDC2009T13	934,922
+	Davis , 57	died at	her home	correct
+	Davis , 57	died in	Gloucester , Virginia	correct
+	Davis , 57	died	Gloucester , Virginia	correct
+	Davis, 57	died	at her home	correct
+Jennifer Blackburn was born July 29, 1941, in the Seattle suburb of Bellevue.	LTW_ENG_20070906.0121.LDC2009T13	1713,1706
+	Seattle	be suburb of	Bellevue	correct
+	Jennifer Blackburn	was born	July 29 , 1941	correct
+	Bellevue	be suburb in	Seattle	correct
+	Jennifer Blackburn	was born at	the Seattle suburb of Bellevue	correct
+	Seattle	be suburb in	Bellevue	correct
+	Jennifer Blackburn	was born	July 29, 1941	correct
+	Jennifer Blackburn	was born in	the Seattle suburb of Bellevue	correct
+	Jennifer Blackburn	was born on	the Seattle suburb of Bellevue	correct
+In 1964, Anderson was elected to the House of Representatives from the sixth district of Tennessee as a Democrat.	LTW_ENG_20070306.0055.LDC2009T13	2104
+	Anderson	was elected	to the House of Representatives	correct
+	Anderson	was elected in	1964	correct
+	Anderson	was elected to	the House	correct
+	Anderson	was elected as	a Democrat	correct
+	Anderson	was elected to	the House of Representatives	correct
+	Anderson	was elected from	the sixth district of Tennessee	correct
+After the war, Herrera worked as a leather artisan in Phoenix, where an elementary school was named in his honor; he moved to nearby Glendale after retiring in the late 1970s.	LTW_ENG_20071202.0052.LDC2009T13	1977,1965
+	he	after retiring	in the late 1970s	correct
+	he	moved to nearby	Glendale	correct
+	Herrera	worked	as a leather artisan	correct
+	an elementary school	was named	in his honor	correct
+	Herrera	worked after	the war	correct
+	Herrera	worked as	a leather artisan	correct
+	he	moved to	nearby Glendale	correct
+	he	moved	to nearby Glendale	correct
+	Herrera	worked in	Phoenix	correct
+	an elementary school	was named in	his honor	correct
+The company employs 2,900 people.	AFP_ENG_20071224.0250.LDC2009T13	652
+	The company	employs	2,900 people	correct
+Bradford Washburn, an explorer and cartographer who, as director of the Museum of Science in Boston, led a landmark mapping of the Grand Canyon, died on Wednesday at his home in Lexington, Mass.	NYT_ENG_20070116.0019.LDC2009T13	967,966,959,957
+	a landmark mapping of the Grand Canyon	be led as	director of the Museum of Science	correct
+	an explorer and cartographer	led	a landmark mapping of the Grand Canyon	correct
+	Bradford Washburn	died in	Wednesday	correct
+	an explorer and cartographer	led a landmark mapping of the Grand Canyon as	director of the Museum of Science	correct
+	Bradford Washburn	died	on Wednesday	correct
+	Bradford Washburn	died on	Wednesday	correct
+	Science	led	a landmark mapping	correct
+	Bradford Washburn	died at	his home	correct
+	a landmark mapping	died on	Wednesday	correct
+As lieutenant governor in 1965, he succeeded Gov. Donald S. Russell, who resigned to take the Senate seat vacated by the death of Olin D. Johnston.	NYT_ENG_20071124.0016.LDC2009T13	1760
+	Gov. Donald S. Russell	be succeeded as	lieutenant governor	correct
+	he	succeeded	Gov. Donald S. Russell	correct
+	he	succeeded Gov. Donald S. Russell , who resigned to take the Senate seat vacated by the death of Olin D. Johnston as	lieutenant governor	correct
+	Gov. Donald S. Russell	resigned to take	the Senate seat	correct
+	the Senate seat	be vacated by	the death of Olin D. Johnston	correct
+	the Senate seat	vacated	by the death of Olin D. Johnston	correct
+	Gov. Donald S. Russell	resigned	to take the Senate seat	correct
+She was also on the board of the King Center.	NYT_ENG_20070517.0034.LDC2009T13	2031
+	She	was also on	the board of the King Center	correct
+	She	was also on	the board	correct
+	She	was also	on the board of the King Center	correct
+Chadian President Idriss Deby appointed Yoadimnadji, a lawyer, as head of government in 2005.	APW_ENG_20070223.0511.LDC2009T13	950
+	Chadian President Idriss Deby	appointed	Yoadimnadji	correct
+	Chadian President Idriss Deby	appointed Yoadimnadji , a lawyer as	head of government	correct
+	Chadian President Idriss Deby	appointed Yoadimnadji , a lawyer in	2005	correct
+Speaking on a conference call with reporters, newly appointed Chief Financial Officer Paul Tufano warned that 2009 would be a "challenging year," with the company forecasting the overall market for telecommunications equipment to contract by 8 to 12 percent.	APW_ENG_20081212.0456.LDC2009T13	1771
+	the overall market	be forecasting by	8 to 12 percent	correct
+	the overall market	be forecasting to	contract	correct
+	the overall market	be forecasting for	telecommunications equipment	correct
+	Speaking on a conference call with reporters	warned	that 2009 would be a ``challengingyear,''with the company	correct
+	2009	would be	a " challenging year	correct
+	the company	forecasting the overall market to	contract	correct
+	the company	forecasting the overall market by	8 to 12 percent	correct
+	2009	would be a `` challenging year with	the company forecasting the overall market for telecommunications equipment to contract by 8 to 12 percent	correct
+	2009	would be	a `` challenging year	correct
+	the company	forecasting the overall market for	telecommunications equipment	correct
+	the company	forecasting	the overall market	correct
+Verity died Wednesday, Jan. 3, 2007, in Beaufort Memorial Hospital.	NYT_ENG_20070104.0161.LDC2009T13	1443
+	Verity	died	Wednesday , Jan. 3 , 2007	correct
+	Verity	died	Wednesday	correct
+	Verity	died	Wednesday, Jan. 3, 2007	correct
+He worked for Armco Steel from 1946 until his retirement in 1982 as CEO and chairman of the board.	NYT_ENG_20070104.0239.LDC2009T13	1468,1464,1445
+	He	worked for	Armco Steel	correct
+	He	worked until	his retirement in 1982 as CEO and chairman of the board	correct
+	He	worked	for Armco Steel from 1946	correct
+"Through these guidelines, the beverage industry is cutting calories in schools in a dramatic way across the country," said Susan Neely, president and chief executive officer of the American Beverage Association.	APW_ENG_20070917.0261.LDC2009T13	665
+	calories	is cutting in	schools	correct
+	dramatic	be way across	the country	correct
+	the beverage industry	is cutting calories in	schools	correct
+	the beverage industry	is cutting	calories	correct
+	the beverage industry	is cutting calories through	these guidelines	correct
+	`Throughthese guidelines, the beverage industry is cutting calories in schools in a dramatic way across the country	said	Susan Neely	correct
+	Susan Neely	be president and chief executive officer in	the American Beverage Association	correct
+	calories	is cutting through	these guidelines	correct
+	the country	said	Susan Neely	correct
+	Susan Neely	be president and chief executive officer of	the American Beverage Association	correct
+When the San Antonio Spurs joined the ABA in 1973, I was a young basketball writer in Memphis.	NYT_ENG_20070426.0285.LDC2009T13	1808
+	I	was a young basketball writer in	Memphis	correct
+	I	was	a young basketball writer in Memphis	correct
+	the San Antonio Spurs	joined the ABA in	1973	correct
+	the San Antonio Spurs	joined the ABA	1973	correct
+	the San Antonio Spurs	joined	the ABA	correct
+	the ABA	be joined in	1973	correct
+	I	was	a young basketball writer	correct
+He was 77.	LTW_ENG_20071004.0063.LDC2009T13	1389
+	He	was	77	correct
+Her father, Larkin Douglass Watson, was an actor who later moved the family to New York where, under the name Douglass Watson, he appeared for 15 years on the NBC soap opera "Another World."	NYT_ENG_20071026.0056.LDC2009T13	1244
+	Her father	was	an actor who later moved the family to New York where , under the name Douglass Watson , he appeared for 15 years on the NBC soap opera `` Another World	correct
+	he	appeared in	the NBC soap opera	correct
+	he	appeared under	the name Douglass Watson	correct
+	Her father	was	an actor	correct
+	the family	be later moved to	New York	correct
+	Her father	was	an actor who later moved the family to New York	correct
+	he	appeared on	the NBC soap opera	correct
+	Her father, Larkin Douglass Watson, was an actor	moved	the family	correct
+	an actor	later moved the family to	New York	correct
+	he	appeared for	15 years	correct
+	he	appeared	for 15 years	correct
+After his wife lost her ability to speak because of a stroke, he became a board member of the National Aphasia Association.	LTW_ENG_20071129.0012.LDC2009T13	1916
+	he	became a board member of	the National Aphasia Association	correct
+	his wife	lost	her ability to speak because of a stroke	correct
+	he	became	a board member of the National Aphasia Association	correct
+	his wife	lost	her ability	correct
+Theodor Kollek was born May 27, 1911, in the Hungarian town of Nagyvazsony and raised in Vienna, Austria.	LTW_ENG_20070103.0149.LDC2009T13	1008,1007,1006
+	Theodor Kollek	was born in	the Hungarian town of Nagyvazsony	correct
+	Theodor Kollek	was born of	Nagyvazsony	correct
+	Theodor Kollek	was born at	the Hungarian town of Nagyvazsony	correct
+	Theodor Kollek	be raised in	Vienna , Austria	correct
+	the Hungarian town	raised in	Vienna	correct
+	Theodor Kollek	raised	in Vienna, Austria	correct
+	Theodor Kollek	was born	May 27, 1911	correct
+	Theodor Kollek	was born	May 27 , 1911	correct
+	Theodor Kollek	was born on	the Hungarian town of Nagyvazsony	correct
+She is survived by her siblings, Martin III, Dexter, and Bernice.	APW_ENG_20070517.1365.LDC2009T13	2042,2041,2040
+	She	is survived by	her siblings , Martin III , Dexter , and Bernice	correct
+	She	is survived by	her siblings	correct
+	She	is survived	by her siblings, Martin III, Dexter, and Bernice	correct
+The petition seeks to persuade Montgomery County Orphans' Court Judge Stanley Ott, who has jurisdiction over Dr. Albert Barnes' trust, to rescind his previous order, remove the current board of directors and place the foundation in receivership.	APW_ENG_20070827.0990.LDC2009T13	2156
+	Montgomery County	remove	the current board of directors	correct
+	The petition	place	the foundation	correct
+	jurisdiction	be has by	Orphans ' Court Judge Stanley Ott	correct
+	Orphans' Court Judge Stanley Ott	has	jurisdiction over Dr. Albert Barnes' trust	correct
+	the current board	place	the foundation	correct
+	' Court Judge Stanley Ott	has jurisdiction over	Dr. Albert Barnes	correct
+	Orphans ' Court Judge Stanley Ott	be the current board of	directors	correct
+	Orphans ' Court Judge Stanley Ott	remove	the current board of directors	correct
+	The petition	seeks to persuade	Montgomery County Orphans	correct
+	The petition	seeks to persuade	Montgomery County	correct
+	The petition	seeks	to persuade Montgomery County	correct
+	' trust	remove	the current board	correct
+Barnes, a pharmaceutical magnate, established the foundation in 1922 to teach populist methods of appreciating and evaluating art.	APW_ENG_20070827.0990.LDC2009T13	2155
+	the foundation	be established in	1922	correct
+	the foundation	to teach	populist methods of appreciating and evaluating art	correct
+	Barnes	established the foundation to teach	populist methods appreciating and evaluating art	correct
+	Barnes	established the foundation in	1922	correct
+	Barnes	established	the foundation	correct
+The CMA announced the first wave of performers Monday, with more to come later.	APW_ENG_20080304.0174.LDC2009T13	690
+	The CMA	announced	the first wave of performers	correct
+	The CMA	announced the first wave of performers in	Monday	correct
+	The CMA	announced the first wave of	performers	correct
+	more	to come	later	correct
+In her later life, King became a national spokeswoman for the American Stroke Association, after her mother suffered a stroke, which contributed to Coretta King's death last year.	NYT_ENG_20070524.0202.LDC2009T13	2057
+	her mother	suffered	a stroke, which contributed to Coretta King's death last year	correct
+	King	became	a national spokeswoman for the American Stroke Association	correct
+	a stroke	contributed to	Coretta King	correct
+	King	became	a national spokeswoman	correct
+	her mother	suffered	a stroke which contributed to Coretta King 's death last year	correct
+	King	became a national spokeswoman for	the American Stroke Association	correct
+	her mother	suffered	a stroke	correct
+	King	became a national spokeswoman in	her later life	correct
+	a stroke	contributed to	Coretta King 's death	correct
+	a stroke	contributed	to Coretta King's death	correct
+Percy Sonn, the president of the International Cricket Council, died Sunday of complications following colon surgery.	APW_ENG_20070527.0356.LDC2009T13	2116
+	Percy Sonn	be the president of	the International Cricket Council	correct
+	Percy Sonn	died	Sunday of complications	correct
+	Percy Sonn	[is] the president of	the International Cricket Council	correct
+A convert to Islam stands an election victory away from becoming the second Muslim elected to Congress and a role model for a faith community seeking to make its mark in national politics.	APW_ENG_20080220.0024.LDC2009T13	1096
+	Islam	stands	an election victory	correct
+	the second Muslim	elected to	Congress	correct
+	a faith community	seeking to make	its mark	correct
+	a faith community	seeking	to make its mark in national politics	correct
+	its mark	to be make in	national politics	correct
+The Starr Foundation is named for Cornelius Vander Starr, who founded AIG in 1919 and later hired Maurice R. Greenberg, who would one day succeed him as chief executive and build the company into an insurance colossus.	NYT_ENG_20080929.0173.LDC2009T13	1878
+	him	build the company into	an insurance colossus	correct
+	Maurice R. Greenberg	build	the company	correct
+	him	would be succeed as	chief executive	correct
+	The Starr Foundation	is named	for Cornelius Vander Starr	correct
+	one	succeed	him	correct
+	Maurice R. Greenberg	would succeed	him	correct
+	Cornelius Vander Starr	hired	Maurice R. Greenberg	correct
+	Cornelius Vander Starr	founded	AIG	correct
+	1919 and	later hired	Maurice R. Greenberg	correct
+	The Starr Foundation	is named for	Cornelius Vander Starr	correct
+	the company	would be build into	an insurance colossus	correct
+A native of Washington, he was also an early advocate for D.C. home rule and a sponsor of legislation that led to the building of the Metro system.	LTW_ENG_20070610.0015.LDC2009T13	1080
+	he	was also an early advocate for	D.C. home rule	correct
+	A native of Washington	was	also an early advocate for D.C. home rule and a sponsor of legislation	correct
+	legislation	led to	the building	correct
+	legislation	be a sponsor by	he	correct
+	a sponsor of legislation	led	to the building of the Metro system	correct
+	he	be a sponsor of	legislation	correct
+	an early advocate for D.C. home rule and a sponsor of legislation	led to	the building of the Metro system	correct
+	he	was also	an early advocate for D.C. home rule and a sponsor of legislation that led to the building of the Metro system	correct
+The foundation said in a statement Tuesday that Kollek died of natural causes.	LTW_ENG_20070103.0058.LDC2009T13	997
+	The foundation	said	Kollek	correct
+	The foundation	said in	a statement	correct
+	Kollek	died	of natural causes	correct
+	a statement	said to	The foundation	correct
+	The foundation	said	in a statement	correct
+	Kollek	died of	natural causes	correct
+Forsberg, a political science professor at City College of New York, died Oct. 19 in a Bronx hospital of cancer, said her sister, Celia Seupel.	APW_ENG_20071101.1324.LDC2009T13	1252,1248,1239,1232
+	Forsberg	be a political science professor at	City College of New York	correct
+	a Bronx hospital	said	her sister	correct
+	Forsberg	died in	a Bronx hospital of cancer	correct
+	City College	died	Oct. 19	correct
+	her sister	said	Forsberg	correct
+	Forsberg	[is] a political science professor at	City College	correct
+	Forsberg	died	a Bronx hospital of cancer	correct
+Ahearn was born Oct. 7, 1954, in Nashville, Tenn., and graduated with honors from the University of Alabama.	LTW_ENG_20070409.0039.LDC2009T13	990,987,979,977
+	Ahearn	graduated from	the University of Alabama	correct
+	Ahearn	graduated with	honors	correct
+	Ahearn	was born	Oct. 7 , 1954	correct
+	Nashville	graduated with	honors	correct
+	Ahearn	was born in	Nashville , Tenn.	correct
+	Ahearn	was born at	Nashville , Tenn.	correct
+	Ahearn	was born on	Nashville , Tenn.	correct
+	Ahearn	was born	Oct. 7, 1954	correct
+For years, he taught in St. Martin parish and supervised teachers.	LTW_ENG_20071127.0103.LDC2009T13	1998
+	he	taught for	years	correct
+	he	taught in	St. Martin parish and supervised teachers	correct
+	he	taught in	St . Martin parish	correct
+	he	taught	in St. Martin parish and supervised teachers	correct
+Meskill, a former congressman and later a federal appeals court judge, faced a $244 million budget deficit when he took office in 1971 as Connecticut's first Republican governor in 16 years.	NYT_ENG_20071030.0031.LDC2009T13	1124
+	he	took office	1971	correct
+	a former congressman	faced	a $ 244 million budget deficit	correct
+	Meskill	faced	a $ 244 million budget deficit	correct
+	he	took office as	Connecticut 's first Republican governor	correct
+	office	be took as	Connecticut 's first Republican governor	correct
+	Meskill	faced	a $244 million budget deficit	correct
+	office	be took in	1971	correct
+	he	took	office	correct
+	he	took office in	1971	correct
+Catherine Gertrude Roraback was born in Brooklyn on Sept. 17, 1920, one of three children of Albert and Gertrude Dittmars Roraback.	NYT_ENG_20071020.0001.LDC2009T13	1597,1591
+	Catherine Gertrude Roraback	was born on	Dittmars Roraback	correct
+	Catherine Gertrude Roraback	was born in	Dittmars Roraback	correct
+	Catherine Gertrude Roraback	was born	in Brooklyn on Sept. 17, 1920, one of three children of Albert and Gertrude Dittmars Roraback	correct
+	Catherine Gertrude Roraback	was born at	Dittmars Roraback	correct
+	Catherine Gertrude Roraback	was born in	Brooklyn	correct
+He eventually landed in St. Paul, Minn., where he became a cosmetologist and hair stylist.	LTW_ENG_20071016.0009.LDC2009T13	1348,1342,1322
+	He	eventually landed in	St. Paul	correct
+	he	became	a cosmetologist and hair stylist	correct
+	He	eventually landed in	St . Paul	correct
+	He	landed	in St. Paul	correct
+He had Alzheimer's disease.	LTW_ENG_20071004.0063.LDC2009T13	1392
+	He	had	Alzheimer 's disease	correct
+	He	had	Alzheimer	correct
+	He	had	Alzheimer's disease	correct
+Jefferson J. DeBlanc, a World War II fighter pilot who was awarded the Medal of Honor for shooting down five Japanese planes on a single day while running out of fuel, died Nov. 22 in Lafayette, La.	NYT_ENG_20071203.0166.LDC2009T13	2018,2011,2010,1997,1994,1980
+	Jefferson J. DeBlanc	died	Lafayette , La.	correct
+	a single day	died	Nov. 22	correct
+	a World War II fighter pilot	was awarded	the Medal of Honor	correct
+	Jefferson J. DeBlanc	died in	Lafayette , La.	correct
+	Jefferson J. DeBlanc	died	Nov. 22	correct
+	a World War II fighter pilot	was awarded the Medal of	Honor	correct
+	Jefferson J. DeBlanc	[is] a fighter pilot [of]	World War II	correct
+	Jefferson J. DeBlanc	be pilot of	World War II fighter	correct
+The wounded politician, Nisar Ali Khan, is a party leader, although he is running as an independent.	LTW_ENG_20080212.0093.LDC2009T13	1888
+	he	is running as	an independent	correct
+	The wounded politician	is	a party leader	correct
+	The wounded politician	is	a party leader, although he is running as an independent	correct
+	he	is running	as an independent	correct
+King died late Tuesday in Santa Monica, California, at age 51.	APW_ENG_20070516.0555.LDC2009T13	2027,2020
+	King	died late Tuesday in	Santa Monica	correct
+	King	died in	Santa Monica	correct
+	King	died	Santa Monica	correct
+	King	died	late Tuesday	correct
+	King	died at	age 51	correct
+In 1973, he became chairman of the board of directors of Digital Management Corp.	APW_ENG_20070305.0543.LDC2009T13	2108,2107,2097
+	he	became chairman of the board of	directors of Digital Management Corp.	correct
+	he	became	chairman of the board of directors of Digital Management Corp.	correct
+	he	became chairman of the board of directors of Digital Management Corp. in	1973	correct
+	he	became chairman of	the board	correct
+	he	became chairman of	the board of directors of Digital Management Corp.	correct
+The American Motorcyclist Association said on its Web site that Gullett was competing in the 500cc Streamliner class at the Salt Flats, where drivers go for speed records every summer on the open space just east of the Nevada state line.	APW_ENG_20080905.0494.LDC2009T13	634
+	drivers	go for	speed records	correct
+	The American Motorcyclist Association	said on	its Web site	correct
+	The American Motorcyclist Association	said in	its Web site	correct
+	The American Motorcyclist Association	said	on its Web site	correct
+	drivers	go on	the open space just east of the Nevada state line	correct
+	Gullett	that was competing in	the 500cc Streamliner class	correct
+	Gullett	was competing in	the 500cc Streamliner class	correct
+	Gullett	was competing	in the 500cc Streamliner class	correct
+	Gullett	that was competing at	the Salt Flats	correct
+	drivers	go	for speed records	correct
+Dent was also an adviser to presidents Gerald R. Ford and the first President Bush and was for a time chairman of the South Carolina Republican Party.	NYT_ENG_20071002.0030.LDC2009T13	1429,1428
+	Dent	was also an adviser to	presidents Gerald R. Ford	correct
+	Dent	was was for	a time chairman of the South Carolina Republican Party	correct
+	Dent was also an adviser to presidents Gerald R. Ford and the first President Bush	was	for a time chairman of the South Carolina Republican Party	correct
+	Dent	was also an adviser to	presidents Gerald R. Ford and the first President Bush	correct
+	presidents Gerald R. Ford	was for	a time chairman	correct
+The DSO, whose members are called the "Scorpions", is an elite investigative arm of the NPA, separate from the police.	AFP_ENG_20071002.0088.LDC2009T13	2118
+	The DSO	is	an elite investigative arm of the NPA, separate from the police	correct
+	The DSO	is	an elite investigative arm of the NPA , separate	correct
+	The DSO	are called	the ``Scorpion	correct
+	whose members	are called	the `` Scorpions	correct
+	whose members	are called the `` Scorpions in	The DSO	correct
+	The DSO	are called	the " Scorpions "	correct
+	The DSO	is an elite investigative arm of	the NPA	correct
+After military service in World War II, he attended the University of Southern California, where he became editor of a college magazine.	AFP_ENG_20070118.0672.LDC2009T13	1618
+	the University of Southern California	be attended after	military service	correct
+	he	attended the University of	Southern California	correct
+	he	attended	the University of Southern California	correct
+	he	became editor of	a college magazine	correct
+	he	became	editor of a college magazine	correct
+	he	attended the University of Southern California , where he became editor of a college magazine after	military service	correct
+Flowers was in college in 1942 when he was drafted into the Army.	NYT_ENG_20070811.0017.LDC2009T13	1373
+	he	was drafted into	the Army	correct
+	Flowers	was in	college	correct
+	Flowers	was	in college in 1942	correct
+	he	was drafted	into the Army	correct
+The family, extremely wealthy, lived in Milton, outside Boston.	NYT_ENG_20070703.0063.LDC2009T13	1036
+	The family , extremely wealthy	lived in	Milton	correct
+	The family , extremely wealthy	lived outside	Boston	correct
+	The family	lived in	Milton	correct
+	The family, extremely wealthy	lived	in Milton	correct
+The Chad Embassy in Paris says that Chadian Prime Minister Pascal Yoadimnadji has died at a Paris hospital.	APW_ENG_20070223.0477.LDC2009T13	944,943
+	Chadian Prime Minister Pascal Yoadimnadji	has died at	a Paris hospital	correct
+	The Chad Embassy in Paris	says	that Chadian Prime Minister Pascal Yoadimnadji has died at a Paris hospital	correct
+	Chadian Prime Minister Pascal Yoadimnadji	has died	at a Paris hospital	correct
+The Immigration Coalition released a study in June about the unit's efficiency.	NYT_ENG_20070813.0007.LDC2009T13	638
+	The Immigration Coalition	released a study about	the unit 's efficiency	correct
+	a study	be released about	the unit 's efficiency	correct
+	a study	be released in	June	correct
+	The Immigration Coalition	released a study in	June	correct
+	The Immigration Coalition	released a study	June	correct
+	The Immigration Coalition	released	a study	correct
+He was a graduate of the Phillips Exeter Academy and Yale University.	NYT_ENG_20070104.0161.LDC2009T13	1454
+	He	was a graduate of	the Phillips Exeter Academy and Yale University	correct
+	He	was	a graduate of the Phillips Exeter Academy	correct
+	He	was a graduate of	the Phillips Exeter Academy	correct
+	He	was	a graduate of the Phillips Exeter Academy and Yale University	correct
+In her second term, she received a seat on the powerful Ways and Means Committee, which oversees tax legislation and programs such as Social Security.	LTW_ENG_20070906.0121.LDC2009T13	1723
+	she	received	a seat	correct
+	she	received a seat on	the powerful Ways and Means Committee	correct
+	a seat	be received in	her second term	correct
+	tax legislation and programs	be oversees by	the powerful Ways and Means Committee	correct
+	the powerful Ways and Means Committee	oversees	tax legislation and programs such as Social Security	correct
+	she	received a seat in	her second term	correct
+	the powerful Ways and Means Committee	oversees	tax legislation	correct
+	a seat	be received on	the powerful Ways and Means Committee	correct
+Dent, a longtime Southern Baptist who organized the initial White House prayer breakfast in 1969, was the first director of the Billy Graham lay center in Asheville, N.C.	LTW_ENG_20071004.0063.LDC2009T13	1424,1410
+	the first director of the Billy Graham	lay center in	Asheville , N.C.	correct
+	the Billy Graham	lay	center	correct
+	a longtime Southern Baptist	organized the initial White House prayer breakfast in	1969	correct
+	the initial White House prayer breakfast	was the first director of	the Billy Graham	correct
+	Dent	was	the first director of the Billy Graham	correct
+	Dent, a longtime Southern Baptist who organized the initial White House prayer breakfast in 1969, was the first director of the Billy Graham	lay	center	correct
+	a longtime Southern Baptist	organized	the initial White House prayer breakfast	correct
+	Dent	was the first director of	the Billy Graham	correct
+	the initial White House prayer breakfast	be organized in	1969	correct
+	center	be lay in	Asheville , N.C.	correct
+Mitchell, 85, had been in intensive care and died on Monday, hospital spokesman Michael Schwartzberg said.	APW_ENG_20070529.1003.LDC2009T13	1676
+	Mitchell, 85	had been	in intensive care	correct
+	Michael Schwartzberg	[is] spokesman [of]	hospital	correct
+	Mitchell , 85	died on	Monday	correct
+	Mitchell , 85	had died on	Monday	correct
+	Mitchell, 85	died	on Monday	correct
+	Mitchell , 85	had been in	intensive care	correct
+	hospital spokesman Michael Schwartzberg	said	Mitchell , 85	correct
+	Mitchell , 85	had died in	Monday	correct
+	Mitchell, 85, had been in intensive care and died on Monday	said	hospital spokesman Michael Schwartzberg	correct
+King was born in 1955 in Montgomery, Ala., and was an infant when her home was bombed during the turbulent civil rights era.	NYT_ENG_20070516.0032.LDC2009T13	2025
+	her home	was bombed during	the turbulent civil rights era	correct
+	King	was born in	1955	correct
+	her home	was bombed in	an infant	correct
+	King	was born on	Montgomery , Ala.	correct
+	Montgomery	was	an infant	correct
+	King	was born at	1955	correct
+	King	was born at	Montgomery , Ala.	correct
+	her home	was bombed	during the turbulent civil rights era	correct
+	King	was born on	1955	correct
+	King	was born	in 1955	correct
+	King	was born in	Montgomery , Ala.	correct
+Such as media baron Rupert Murdoch, who hired Black to run New York magazine in 1979, making her the nation's first female publisher of a weekly consumer magazine.	NYT_ENG_20071021.0005.LDC2009T13	1532
+	Black	to run	New York magazine	correct
+	media baron Rupert Murdoch	hired	Black	correct
+John Philip Henebry, a native of Plainfield, Ill., became fascinated with flying when a World War I biplane landed in his town when he was 12 years old.	NYT_ENG_20071006.0130.LDC2009T13	1576,1569
+	he	was	12 years old	correct
+	John Philip Henebry	became fascinated	when a World War I biplane landed in his town	correct
+	a World War I biplane	landed in	his town	correct
+	John Philip Henebry	became	fascinated with flying	correct
+	he	was	12 years	correct
+	a World War I biplane	landed	in his town	correct
+	he	was	old	correct
+	John Philip Henebry	be a native of	Plainfield , Ill.	correct
+	John Philip Henebry	with flying	when a World War I biplane landed in his town	correct
+She then married a lawyer, Ralph E. Mizelle, and the two practiced in New York.	NYT_ENG_20070109.0332.LDC2009T13	1560
+	the two	practiced	in New York	correct
+	the two	practiced in	New York	correct
+	She	then married	a lawyer , Ralph E. Mizelle , and the two practiced in New York	correct
+	She	married	a lawyer, Ralph E. Mizelle, and the two	correct
+	She	then married	a lawyer	correct
+	a lawyer , Ralph E. Mizelle , and the two	be practiced in	New York	correct
+Kenneth F. Nelson was born on Jan. 19, 1911, in Caledonia, Minn.	NYT_ENG_20080110.0039.LDC2009T13	699
+	Kenneth F. Nelson	was born on	Jan. 19 , 1911	correct
+	Kenneth F. Nelson	was born in	Jan. 19 , 1911	correct
+	Kenneth F. Nelson	was born on	Jan . 19 , 1911	correct
+	Kenneth F. Nelson	was born	on Jan. 19, 1911, in Caledonia, Minn.	correct
+Irene Morgan Kirkaldy, 90, who died of Alzheimer's disease Aug. 10 at her home in Gloucester, Va., quietly changed history in 1944 when she refused to give up her seat on a crowded Greyhound bus to a white couple.	LTW_ENG_20070814.0081.LDC2009T13	1209,1199
+	her seat	to give up to be	a white couple	correct
+	Irene Morgan Kirkaldy, 90	quietly changed	history	correct
+	she	to give up	her seat	correct
+	Gloucester	quietly changed history in	1944	correct
+	Irene Morgan Kirkaldy , 90	died of	Alzheimer 's disease	correct
+	she	to give up her seat on a crowded Greyhound bus to	a white couple	correct
+	she	refused to give up her seat on a crowded Greyhound bus to	a white couple	correct
+	Irene Morgan Kirkaldy , 90	quietly changed history in	1944	correct
+	she	refused to give up	her seat on a crowded Greyhound bus	correct
+	Irene Morgan Kirkaldy , 90	died at	her home	correct
+	Irene Morgan Kirkaldy, 90	died	of Alzheimer's disease	correct
+	Irene Morgan Kirkaldy , 90	quietly changed	history	correct
+	history	be quietly changed in	1944	correct
+	she	refused to give up	her seat	correct
+	she	refused	to give up her seat on a crowded Greyhound bus to a white couple	correct
+	90	died of	Alzheimer	correct
+Michael K. Deaver, who arranged some of Ronald Reagan's most memorable photographic backdrops for public consumption and privately gave the president blunt, sometimes contrarian advice, died Saturday at his home in Bethesda, Md.	NYT_ENG_20070818.0118.LDC2009T13	1669,1668,1658,1656,1652,1646
+	Michael K. Deaver	arranged some of Ronald Reagan 's most memorable photographic backdrops privately for	public consumption	correct
+	Michael K. Deaver	gave	the president	correct
+	Michael K. Deaver	arranged some of	Ronald Reagan	correct
+	Michael K. Deaver	died	Saturday	correct
+	Michael K. Deaver	arranged privately	some of Ronald Reagan's most memorable photographic backdrops	correct
+	Michael K. Deaver	died at	his home	correct
+	's most memorable photographic backdrops	privately gave	the president	correct
+	Michael K. Deaver	died in	Saturday	correct
+Steven Boghos Derounian was born in Sofia, Bulgaria, to Armenian parents who had fled persecution at the fall of the Ottoman Empire.	NYT_ENG_20070420.0018.LDC2009T13	2073,2065
+	Steven Boghos Derounian	was born in	Sofia	correct
+	Steven Boghos Derounian	was born in	Sofia , Bulgaria	correct
+	Steven Boghos Derounian	was born	in Sofia, Bulgaria	correct
+	Armenian parents	had fled	persecution	correct
+	Steven Boghos Derounian	was born on	Sofia , Bulgaria	correct
+	Steven Boghos Derounian	was born to	Armenian parents who had fled persecution at the fall of the Ottoman Empire	correct
+	Steven Boghos Derounian	was born at	Sofia , Bulgaria	correct

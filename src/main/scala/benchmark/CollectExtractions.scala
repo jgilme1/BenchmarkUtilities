@@ -10,6 +10,11 @@ import edu.knowitall.tool.chunk.OpenNlpChunker
 import edu.knowitall.tool.postag.OpenNlpPostagger
 import edu.knowitall.tool.sentence.OpenNlpSentencer
 import edu.knowitall.tool.tokenize.OpenNlpTokenizer
+import edu.knowitall.openie.models.Extraction
+import edu.knowitall.srlie.SrlExtractor
+import edu.knowitall.chunkedextractor.Relnoun
+import edu.knowitall.tool.stem.MorphaStemmer
+
 
 object CollectExtractions {
   
@@ -18,6 +23,8 @@ object CollectExtractions {
   def main(args: Array[String]){
     val ollie = new Ollie()
     val reverb = new ReVerb()
+    val srl = new SrlExtractor()
+    val relNoun = new Relnoun()
     val parser = new StanfordParser(new StanfordPostagger())
     val chunker =  new OpenNlpChunker()
     val sentence = new OpenNlpSentencer()
@@ -48,6 +55,15 @@ object CollectExtractions {
           
           extractions = extractions :+ new Extraction(e.extr.arg1.text,e.extr.rel.text,e.extr.arg2.text)
         }
+        for(e <- srl.apply(graph)){
+          
+          extractions = extractions :+ new Extraction(e.extr.arg1.text,e.extr.rel.text,e.extr.arg2s.seq(0).text)
+        }
+        for(e <- relNoun.extract(chunker.chunkTokenized(tokenizer.tokenize(p._1)) map MorphaStemmer.lemmatizeToken)){
+          
+          extractions = extractions :+ new Extraction(e.extr.arg1.text,e.extr.rel.text,e.extr.arg2.text)
+        }
+        
         extractions = extractions.toSet.toList
         listWithExtractions = listWithExtractions :+ (p._1,p._2,p._3,extractions)
       }
@@ -60,7 +76,7 @@ object CollectExtractions {
     for( a <- listWithExtractions){
       pw.write(a._1 + "\t" + a._2 + "\t" + a._3 + "\n")
       for( e <- a._4){
-        pw.write("\t"+e+"\n")
+        pw.write("\t"+e+"\t" +"correct\n")
       }
     }
     pw.close()
@@ -74,7 +90,7 @@ object CollectExtractions {
   
   private case class Extraction(val arg1:String, val rel: String, val arg2: String){
     override def toString(): String = {
-      Iterator(arg1,rel,arg2).mkString("(",",",")")
+      Iterator(arg1,rel,arg2).mkString("","\t","")
     }
   }
 

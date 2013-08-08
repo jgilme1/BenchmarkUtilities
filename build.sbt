@@ -16,6 +16,7 @@ libraryDependencies ++= Seq(
   "edu.washington.cs.knowitall.ollie" %% "ollie-core" %"1.0.3",
   "edu.washington.cs.knowitall.chunkedextractor" %% "chunkedextractor" % "1.0.5",
   "edu.stanford.nlp" % "stanford-corenlp" % "1.3.5",
+  "edu.washington.cs.knowitall.srlie" %% "openie-srl" % "1.0.0-RC1",
   "edu.washington.cs.knowitall.stanford-corenlp" % "stanford-parse-models" % "1.3.5",
   "edu.washington.cs.knowitall.stanford-corenlp" % "stanford-postag-models" % "1.3.5",
   "edu.washington.cs.knowitall.stanford-corenlp" % "stanford-ner-models" % "1.3.5",
